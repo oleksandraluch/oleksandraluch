@@ -80,8 +80,8 @@ I'm a 3rd year student at Seneca Polytechnic working towards an Honours Bachelor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/oleksandra-luchakova-softdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" height="30" width="40" /></a>
-<a href="/www.behance.net/alexluch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/alexluch" height="30" width="40" /></a>
-<a href="/www.kaggle.com/oleksandraluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/oleksandraluchakova" height="30" width="40" /></a>
-<a href="/www.hackerrank.com/profile/oluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/oluchakova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" height="30" width="40" /></a>
+<a href="https://www.behance.net/alexluch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/alexluch" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/oleksandraluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/oleksandraluchakova" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/oluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/oluchakova" height="30" width="40" /></a>
 </p>
