@@ -7,8 +7,15 @@ Through my software development journey I have obtained a strong understanding o
 
 I am self-motivated to learn new technologies, detail-oriented, enthusiastic problem solver; experienced in working in a dynamic team environment or independently.
 
+<hr />
+
 <h3 align="left">React out to me:</h3>
+
+<a href="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" height="30" width="40" /></a>
+<br/><br/>
 <a href="oluchakova@myseneca.ca">oleksaluchakova@gmail.com</a>
+
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -82,10 +89,7 @@ I am self-motivated to learn new technologies, detail-oriented, enthusiastic pro
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" height="30" width="40" /></a>
 <a href="https://www.behance.net/alexluch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/alexluch" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/oleksandraluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/oleksandraluchakova" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/oluchakova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/oluchakova" height="30" width="40" /></a>
-</p>
+</p>-->
