@@ -5,7 +5,7 @@ I am a Software Developer proficient in programming languages including Python, 
 
 Through my software development journey I have obtained a strong understanding of data structures, algorithms, and design patterns, which allow me to design efficient software implementations.
 
-I am self-motivated to learn new technologies, detail-oriented, enthusiastic problem solver; experienced in working in a dynamic team environment or independently..
+I am self-motivated to learn new technologies, detail-oriented, enthusiastic problem solver; experienced in working in a dynamic team environment or independently.
 
 <h3 align="left">React out to me:</h3>
 <a href="oluchakova@myseneca.ca">oleksaluchakova@gmail.com</a>
