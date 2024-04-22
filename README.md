@@ -1,7 +1,14 @@
 <h1 align="left">Hi 👋, I'm Oleksandra!</h1>
-<h3 align="left">Junior Software Developer</h3>
+<h3 align="left">Software Developer</h3>
 
-I'm a 3rd year student at Seneca Polytechnic working towards an Honours Bachelor of Technology in Software Development degree. My interests lie within computer science and graphic design.
+I am a Software Developer proficient in programming languages including Python, C++, JavaScript. From my experience in working in cross-functional teams using Git, Agile (Scrum), and JIRA I developed excellent communication and collaboration skills.
+
+Through my software development journey I have obtained a strong understanding of data structures, algorithms, and design patterns, which allow me to design efficient software implementations.
+
+I am self-motivated to learn new technologies, detail-oriented, enthusiastic problem solver; experienced in working in a dynamic team environment or independently..
+
+<h3 align="left">React out to me:</h3>
+<a href="oluchakova@myseneca.ca">oleksaluchakova@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -74,9 +81,6 @@ I'm a 3rd year student at Seneca Polytechnic working towards an Honours Bachelor
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
 </p>
-
-<h3 align="left">Contact me:</h3>
-<a href="oluchakova@myseneca.ca">oluchakova@myseneca.ca</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
