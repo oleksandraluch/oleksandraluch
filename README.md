@@ -9,7 +9,7 @@ I am self-motivated to learn new technologies, detail-oriented, enthusiastic pro
 
 <hr />
 
-<h3 align="left">React out to me:</h3>
+<h3 align="left">Reach out to me:</h3>
 
 <a href="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oleksandra-luchakova-softdev/" height="30" width="40" /></a>
 <br/><br/>
