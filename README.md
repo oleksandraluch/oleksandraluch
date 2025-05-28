@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Oleksa!</h1>
+<h1 align="left">Hi 👋 I'm Oleksa!</h1>
 <h3 align="left">Software Developer</h3>
 
 I am a Software Developer proficient in programming languages including Python, C++, JavaScript. From my experience in working in cross-functional teams using Git, Agile (Scrum), and JIRA I developed excellent communication and collaboration skills.
